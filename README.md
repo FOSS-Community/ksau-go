@@ -150,3 +150,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact Information
 For further inquiries or support, please contact us at [Telegram](https://t.me/ksau_update)
+
+# Donation Acknowledgment
+
+**Proudly donated to [FOSS-Community](https://github.com/FOSS-Community) by [Pratham](https://github.com/prathamdby), [Hakimi](https://github.com/hakimifr) and [Sauraj](https://github.com/ksauraj)**
